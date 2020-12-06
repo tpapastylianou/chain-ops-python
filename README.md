@@ -28,3 +28,6 @@ Example:
            , str.split   )
 
     # outputs: ['hello', 'world!']
+
+See also: [Simple chaining of operations (a.k.a. pipe operator) in octave](https://github.com/tpapastylianou/chain-ops-octave)
+
